@@ -1,0 +1,21 @@
+{
+  "name": "elastic-search",
+  "version": "1.0.0",
+  "description": "implemenation of elastic search methods",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chalk": "^4.1.2",
+    "config": "^3.3.6",
+    "cors": "^2.8.5",
+    "elastic-builder": "^2.16.0",
+    "elasticsearch": "^16.7.2",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "elasticSearch" :{
+        "url":"http:localhost:",
+        "port":"9200"
+
+
+    },
+    "servicePort":3500
+}
